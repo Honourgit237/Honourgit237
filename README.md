@@ -22,5 +22,4 @@ Check out my repositories for various pentesting and hacking tools, including:
 
 Connect with Me
 Email: honourgit@gmail.com
-LinkedIn: 
-Honourgit237/
+LinkedIn: https://cm.linkedin.com/in/honour-git-666b68275
